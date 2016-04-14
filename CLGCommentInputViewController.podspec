@@ -12,7 +12,7 @@ s.homepage = 'https://github.com/creeveliu/CLGCommentInputViewController'
 
 s.author = { 'creeveliu' => 'creeveliu@foxmail.com' }
 
-s.source = { :git => 'https://github.com/creeveliu/CLGCommentInputViewController.git', :commit => '93d4a40c7a3fcd707a48e1ab98e3adc60872eae6' }
+s.source = { :git => 'https://github.com/creeveliu/CLGCommentInputViewController.git', :commit => '05ae8f9244bf38d46c6eb336301beba0ce808d21', tag => '1.0.0'}
 
 s.platform = :ios,'8.0'
 
